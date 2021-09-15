@@ -4,7 +4,7 @@ This is a simple software that prints "Hello World!"
 
 This software was created for the purpose of testing my link between VS Code, Python, and GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1YAzndHIYiQ)
 
 # Development Environment
 
